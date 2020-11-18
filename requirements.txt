@@ -5,4 +5,3 @@ sklearn
 seaborn
 requests
 RISE
-hide_code
