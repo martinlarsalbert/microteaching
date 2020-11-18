@@ -4,3 +4,5 @@ matplotlib
 sklearn
 seaborn
 requests
+RISE
+hide_code
