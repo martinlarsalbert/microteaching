@@ -14,3 +14,7 @@ Your task is to teach a 15-minute lesson on a topic from your own subject area a
 4. How will I know if they have [understood](docs/understood.md) what I have taught?
 
 The lesson can be a section of a lecture, tutorial, lab introduction or similar. Please note that you don't need to give a presentation, but could also focus on leading your peers in an exercise.  What you do is up to you. However, section is a key word here, as we don’t want you to try to compress a longer lesson into 15 minutes, but that you plan something that you can realistically do within the given time. 15 minutes is not a long time!
+
+## Active learning techniques:
+* 5 min socializing prior to lecture (so that the students get to know each other)
+* Ask questions continuesly not just at the very end (this calls for presentations also?)
